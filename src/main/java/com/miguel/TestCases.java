@@ -1,7 +1,7 @@
 package com.miguel;
 
 import org.testng.annotations.Test;
-
+//Clase test
 public class TestCases {
 
     @Test
